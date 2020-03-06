@@ -5,4 +5,4 @@ The fastest, most secure cryptocurrency, complete with total privacy.
 - Mineable by everyone, no need to purchase ASICs
 - Completely untraceable
 ## Getting Started
-To get started, get the [wallet](egg).
+To get started, get the [NoWallet](egg).
